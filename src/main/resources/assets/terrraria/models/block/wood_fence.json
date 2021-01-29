@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "terrraria:blocks/wood_planks3",
+    "particle": "terrraria:blocks/wood_planks3"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "terrraria",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "terrraria:wood_planks"
+    },
+    "3": {
+      "item": "terrraria:wood_planks"
+    },
+    "4": {
+      "item": "terrraria:wood_planks"
+    },
+    "6": {
+      "item": "terrraria:wood_planks"
+    },
+    "7": {
+      "item": "terrraria:wood_planks"
+    },
+    "8": {
+      "item": "terrraria:wood_planks"
+    }
+  },
+  "result": {
+    "item": "terrraria:wood_stairs",
+    "count": 4
+  }
+}

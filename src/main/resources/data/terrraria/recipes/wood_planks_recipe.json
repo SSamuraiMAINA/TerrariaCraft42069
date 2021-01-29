@@ -1,0 +1,13 @@
+{
+  "group": "terrraria",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:wood_log"
+    }
+  ],
+  "result": {
+    "item": "terrraria:wood_planks",
+    "count": 4
+  }
+}

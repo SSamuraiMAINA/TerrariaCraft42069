@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "terrraria:blocks/pearlwood_log_top2",
+    "up": "terrraria:blocks/pearlwood_log_top2",
+    "north": "terrraria:blocks/pearlwood_log_side2",
+    "east": "terrraria:blocks/pearlwood_log_side2",
+    "south": "terrraria:blocks/pearlwood_log_side2",
+    "west": "terrraria:blocks/pearlwood_log_side2",
+    "particle": "terrraria:blocks/pearlwood_log_top2"
+  }
+}

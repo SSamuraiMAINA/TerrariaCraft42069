@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "terrraria:blocks/pearlwood_planks2",
+    "top": "terrraria:blocks/pearlwood_planks2",
+    "side": "terrraria:blocks/pearlwood_planks2"
+  }
+}

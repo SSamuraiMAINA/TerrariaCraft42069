@@ -1,0 +1,484 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "WoodWood",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_wood"
+    },
+    {
+      "name": "WoodLog",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_log"
+    },
+    {
+      "name": "WoodPlanks",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_planks"
+    },
+    {
+      "name": "WoodLeaves",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_leaves"
+    },
+    {
+      "name": "WoodStairs",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_stairs"
+    },
+    {
+      "name": "WoodSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_slab"
+    },
+    {
+      "name": "WoodFence",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_fence"
+    },
+    {
+      "name": "WoodFenceGate",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_fence_gate"
+    },
+    {
+      "name": "WoodItemsTag",
+      "type": "tag",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_items_tag"
+    },
+    {
+      "name": "WoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_wood_recipe"
+    },
+    {
+      "name": "WoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_planks_recipe"
+    },
+    {
+      "name": "WoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_stairs_recipe"
+    },
+    {
+      "name": "WoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_slab_recipe"
+    },
+    {
+      "name": "WoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_fence_recipe"
+    },
+    {
+      "name": "WoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_fence_gate_recipe"
+    },
+    {
+      "name": "WoodStickRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wood_stick_recipe"
+    },
+    {
+      "name": "RichMahagonyWood",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_wood"
+    },
+    {
+      "name": "RichMahagonyLog",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_log"
+    },
+    {
+      "name": "RichMahagonyPlanks",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_planks"
+    },
+    {
+      "name": "RichMahagonyLeaves",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_leaves"
+    },
+    {
+      "name": "RichMahagonyStairs",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_stairs"
+    },
+    {
+      "name": "RichMahagonySlab",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_slab"
+    },
+    {
+      "name": "RichMahagonyFence",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_fence"
+    },
+    {
+      "name": "RichMahagonyFenceGate",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_fence_gate"
+    },
+    {
+      "name": "RichMahagonyItemsTag",
+      "type": "tag",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_items_tag"
+    },
+    {
+      "name": "RichMahagonyWoodRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_wood_recipe"
+    },
+    {
+      "name": "RichMahagonyPlanksRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_planks_recipe"
+    },
+    {
+      "name": "RichMahagonyStairsRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_stairs_recipe"
+    },
+    {
+      "name": "RichMahagonySlabRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_slab_recipe"
+    },
+    {
+      "name": "RichMahagonyFenceRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_fence_recipe"
+    },
+    {
+      "name": "RichMahagonyFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_fence_gate_recipe"
+    },
+    {
+      "name": "RichMahagonyStickRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rich_mahagony_stick_recipe"
+    },
+    {
+      "name": "PearlwoodWood",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_wood"
+    },
+    {
+      "name": "PearlwoodLog",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_log"
+    },
+    {
+      "name": "PearlwoodPlanks",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_planks"
+    },
+    {
+      "name": "PearlwoodLeaves",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_leaves"
+    },
+    {
+      "name": "PearlwoodStairs",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_stairs"
+    },
+    {
+      "name": "PearlwoodSlab",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_slab"
+    },
+    {
+      "name": "PearlwoodFence",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_fence"
+    },
+    {
+      "name": "PearlwoodFenceGate",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_fence_gate"
+    },
+    {
+      "name": "PearlwoodItemsTag",
+      "type": "tag",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_items_tag"
+    },
+    {
+      "name": "PearlwoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_wood_recipe"
+    },
+    {
+      "name": "PearlwoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_planks_recipe"
+    },
+    {
+      "name": "PearlwoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_stairs_recipe"
+    },
+    {
+      "name": "PearlwoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_slab_recipe"
+    },
+    {
+      "name": "PearlwoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_fence_recipe"
+    },
+    {
+      "name": "PearlwoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_fence_gate_recipe"
+    },
+    {
+      "name": "PearlwoodStickRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pearlwood_stick_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.terrraria.rich_mahagony_wood": "RichMahagony Wood",
+      "block.terrraria.wood_fence_gate": "Wood Fence Gate",
+      "block.terrraria.wood_slab": "Wood Slab",
+      "block.terrraria.rich_mahagony_log": "RichMahagony Log",
+      "block.terrraria.wood_stairs": "Wood Stairs",
+      "block.terrraria.pearlwood_leaves": "Pearlwood Leaves",
+      "block.terrraria.wood_log": "Wood Log",
+      "block.terrraria.rich_mahagony_fence_gate": "RichMahagony Fence Gate",
+      "block.terrraria.pearlwood_wood": "Pearlwood Wood",
+      "block.terrraria.rich_mahagony_slab": "RichMahagony Slab",
+      "block.terrraria.wood_planks": "Wood Planks",
+      "block.terrraria.pearlwood_slab": "Pearlwood Slab",
+      "block.terrraria.pearlwood_log": "Pearlwood Log",
+      "block.terrraria.rich_mahagony_leaves": "RichMahagony Leaves",
+      "block.terrraria.rich_mahagony_fence": "RichMahagony Fence",
+      "block.terrraria.wood_leaves": "Wood Leaves",
+      "block.terrraria.wood_fence": "Wood Fence",
+      "block.terrraria.wood_wood": "Wood Wood",
+      "block.terrraria.rich_mahagony_stairs": "RichMahagony Stairs",
+      "block.terrraria.pearlwood_stairs": "Pearlwood Stairs",
+      "block.terrraria.pearlwood_fence_gate": "Pearlwood Fence Gate",
+      "block.terrraria.rich_mahagony_planks": "RichMahagony Planks",
+      "block.terrraria.pearlwood_planks": "Pearlwood Planks",
+      "block.terrraria.pearlwood_fence": "Pearlwood Fence"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "terrraria",
+    "modName": "Terrraria",
+    "version": "1.0.0",
+    "author": "Martin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.terrraria",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

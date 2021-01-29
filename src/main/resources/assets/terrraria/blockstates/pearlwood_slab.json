@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "terrraria:block/pearlwood_slab"
+    },
+    "type=top": {
+      "model": "terrraria:block/pearlwood_slab_top"
+    },
+    "type=double": {
+      "model": "terrraria:block/pearlwood_slab_full"
+    }
+  }
+}

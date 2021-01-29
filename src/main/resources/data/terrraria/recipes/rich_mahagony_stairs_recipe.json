@@ -1,0 +1,33 @@
+{
+  "group": "terrraria",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "terrraria:rich_mahagony_planks"
+    },
+    "3": {
+      "item": "terrraria:rich_mahagony_planks"
+    },
+    "4": {
+      "item": "terrraria:rich_mahagony_planks"
+    },
+    "6": {
+      "item": "terrraria:rich_mahagony_planks"
+    },
+    "7": {
+      "item": "terrraria:rich_mahagony_planks"
+    },
+    "8": {
+      "item": "terrraria:rich_mahagony_planks"
+    }
+  },
+  "result": {
+    "item": "terrraria:rich_mahagony_stairs",
+    "count": 4
+  }
+}

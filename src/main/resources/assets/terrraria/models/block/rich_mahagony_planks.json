@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terrraria:blocks/richmahagony_planks2",
+    "particle": "terrraria:blocks/richmahagony_planks2"
+  }
+}

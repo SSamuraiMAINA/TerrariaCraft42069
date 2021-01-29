@@ -1,0 +1,22 @@
+{
+  "group": "terrraria",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "terrraria:wood_planks"
+    },
+    "1": {
+      "item": "terrraria:wood_planks"
+    },
+    "2": {
+      "item": "terrraria:wood_planks"
+    }
+  },
+  "result": {
+    "item": "terrraria:wood_slab",
+    "count": 6
+  }
+}

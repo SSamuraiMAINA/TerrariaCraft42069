@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "terrraria:blocks/richmahagony_planks2",
+    "particle": "terrraria:blocks/richmahagony_planks2"
+  }
+}

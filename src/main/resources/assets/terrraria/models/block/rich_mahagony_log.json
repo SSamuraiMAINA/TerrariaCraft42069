@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "terrraria:blocks/richmahagony_log_top2",
+    "up": "terrraria:blocks/richmahagony_log_top2",
+    "north": "terrraria:blocks/richmahagony_log_side2",
+    "east": "terrraria:blocks/richmahagony_log_side2",
+    "south": "terrraria:blocks/richmahagony_log_side2",
+    "west": "terrraria:blocks/richmahagony_log_side2",
+    "particle": "terrraria:blocks/richmahagony_log_top2"
+  }
+}

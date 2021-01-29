@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "terrraria:block/rich_mahagony_slab"
+    },
+    "type=top": {
+      "model": "terrraria:block/rich_mahagony_slab_top"
+    },
+    "type=double": {
+      "model": "terrraria:block/rich_mahagony_slab_full"
+    }
+  }
+}

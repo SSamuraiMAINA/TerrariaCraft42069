@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:PearlwoodWood"
+      },
+      {
+        "value": "CUSTOM:PearlwoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "pearlwood_log",
+    "namespace": "forge"
+  }
+}

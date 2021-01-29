@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "terrraria:block/wood_slab"
+    },
+    "type=top": {
+      "model": "terrraria:block/wood_slab_top"
+    },
+    "type=double": {
+      "model": "terrraria:block/wood_slab_full"
+    }
+  }
+}

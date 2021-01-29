@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "terrraria:blocks/wood_planks3",
+    "top": "terrraria:blocks/wood_planks3",
+    "side": "terrraria:blocks/wood_planks3"
+  }
+}
