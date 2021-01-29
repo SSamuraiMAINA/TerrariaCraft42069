@@ -32,7 +32,7 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "BUILDING_BLOCKS"
+      "value": "CUSTOM:Terraria"
     },
     "destroyTool": "Not specified",
     "customDrop": {
