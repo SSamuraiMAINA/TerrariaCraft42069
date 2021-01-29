@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "terrraria:blocks/pearlwood_leaves",
-    "particle": "terrraria:blocks/pearlwood_leaves"
+    "all": "terrraria:blocks/pearlwood_leaves2",
+    "particle": "terrraria:blocks/pearlwood_leaves2"
   }
 }
