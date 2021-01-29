@@ -1,0 +1,33 @@
+{
+  "group": "terrraria",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "terrraria:shadewood_planks"
+    },
+    "3": {
+      "item": "terrraria:shadewood_planks"
+    },
+    "4": {
+      "item": "terrraria:shadewood_planks"
+    },
+    "6": {
+      "item": "terrraria:shadewood_planks"
+    },
+    "7": {
+      "item": "terrraria:shadewood_planks"
+    },
+    "8": {
+      "item": "terrraria:shadewood_planks"
+    }
+  },
+  "result": {
+    "item": "terrraria:shadewood_stairs",
+    "count": 4
+  }
+}
