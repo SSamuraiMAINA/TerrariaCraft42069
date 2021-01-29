@@ -450,6 +450,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "terraria"
+    },
+    {
+      "name": "DickThunder",
+      "type": "achievement",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dick_thunder"
     }
   ],
   "variable_elements": [],
@@ -462,10 +471,11 @@
       "block.terrraria.rich_mahagony_log": "RichMahagony Log",
       "block.terrraria.wood_stairs": "Wood Stairs",
       "block.terrraria.pearlwood_leaves": "Pearlwood Leaves",
+      "advancements.dick_thunder.descr": "Reach level 69",
       "block.terrraria.wood_log": "Wood Log",
       "block.terrraria.rich_mahagony_fence_gate": "RichMahagony Fence Gate",
-      "block.terrraria.pearlwood_wood": "Pearlwood Wood",
       "item.terrraria.ticon": "Ticon",
+      "block.terrraria.pearlwood_wood": "Pearlwood Wood",
       "block.terrraria.rich_mahagony_slab": "RichMahagony Slab",
       "block.terrraria.wood_planks": "Wood Planks",
       "block.terrraria.pearlwood_slab": "Pearlwood Slab",
@@ -478,6 +488,7 @@
       "block.terrraria.rich_mahagony_stairs": "RichMahagony Stairs",
       "itemGroup.tabterraria": "Terraria",
       "block.terrraria.pearlwood_stairs": "Pearlwood Stairs",
+      "advancements.dick_thunder.title": "Dick Thunder",
       "block.terrraria.pearlwood_fence_gate": "Pearlwood Fence Gate",
       "block.terrraria.rich_mahagony_planks": "RichMahagony Planks",
       "block.terrraria.pearlwood_planks": "Pearlwood Planks",

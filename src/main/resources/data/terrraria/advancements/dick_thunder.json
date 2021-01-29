@@ -1,0 +1,38 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:end_rod"
+    },
+    "title": {
+      "translate": "advancements.dick_thunder.title"
+    },
+    "description": {
+      "translate": "advancements.dick_thunder.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "dick_thunder": {
+      "trigger": "minecraft:target_hit",
+      "conditions": {
+        "signal_strength": 15,
+        "projectile": [
+		  {
+		    "condition": "minecraft:entity_properties",
+		    "predicate": {
+			  "type": "minecraft:lightning_bolt"
+			},
+			"entity": "this"
+		  }
+		]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0
+  }
+}
