@@ -432,6 +432,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pearlwood_stick_recipe"
+    },
+    {
+      "name": "Ticon",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ticon"
+    },
+    {
+      "name": "Terraria",
+      "type": "tab",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "terraria"
     }
   ],
   "variable_elements": [],
@@ -447,6 +465,7 @@
       "block.terrraria.wood_log": "Wood Log",
       "block.terrraria.rich_mahagony_fence_gate": "RichMahagony Fence Gate",
       "block.terrraria.pearlwood_wood": "Pearlwood Wood",
+      "item.terrraria.ticon": "Ticon",
       "block.terrraria.rich_mahagony_slab": "RichMahagony Slab",
       "block.terrraria.wood_planks": "Wood Planks",
       "block.terrraria.pearlwood_slab": "Pearlwood Slab",
@@ -457,6 +476,7 @@
       "block.terrraria.wood_fence": "Wood Fence",
       "block.terrraria.wood_wood": "Wood Wood",
       "block.terrraria.rich_mahagony_stairs": "RichMahagony Stairs",
+      "itemGroup.tabterraria": "Terraria",
       "block.terrraria.pearlwood_stairs": "Pearlwood Stairs",
       "block.terrraria.pearlwood_fence_gate": "Pearlwood Fence Gate",
       "block.terrraria.rich_mahagony_planks": "RichMahagony Planks",
