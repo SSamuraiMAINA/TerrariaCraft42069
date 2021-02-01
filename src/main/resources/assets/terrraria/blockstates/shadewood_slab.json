@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "terrraria:block/shadewood_slab"
+    },
+    "type=top": {
+      "model": "terrraria:block/shadewood_slab_top"
+    },
+    "type=double": {
+      "model": "terrraria:block/shadewood_slab_full"
+    }
+  }
+}

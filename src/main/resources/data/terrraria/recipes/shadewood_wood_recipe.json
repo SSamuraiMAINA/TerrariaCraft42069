@@ -1,0 +1,26 @@
+{
+  "group": "terrraria",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "terrraria:shadewood_log"
+    },
+    "1": {
+      "item": "terrraria:shadewood_log"
+    },
+    "2": {
+      "item": "terrraria:shadewood_log"
+    },
+    "3": {
+      "item": "terrraria:shadewood_log"
+    }
+  },
+  "result": {
+    "item": "terrraria:shadewood_wood",
+    "count": 3
+  }
+}

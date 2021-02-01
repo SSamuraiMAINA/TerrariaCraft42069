@@ -2,10 +2,10 @@
   "_fv": 13,
   "_type": "block",
   "definition": {
-    "texture": "wood_leaves3",
-    "textureTop": "",
+    "texture": "shadewood_planks2",
+    "textureTop": "shadewood_planks2",
     "textureLeft": "",
-    "textureFront": "",
+    "textureFront": "shadewood_planks2",
     "textureRight": "",
     "textureBack": "",
     "renderType": 10,
@@ -15,7 +15,7 @@
     "displayFluidOverlay": false,
     "itemTexture": "",
     "particleTexture": "",
-    "blockBase": "Leaves",
+    "blockBase": "Slab",
     "hasTransparency": false,
     "connectedSides": false,
     "transparencyType": "SOLID",
@@ -25,10 +25,10 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Wood Leaves",
+    "name": "Shadewood Slab",
     "specialInfo": [],
-    "hardness": 0.2,
-    "resistance": 0.2,
+    "hardness": 2.0,
+    "resistance": 3.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
@@ -46,7 +46,7 @@
     "canProvidePower": false,
     "lightOpacity": 255,
     "material": {
-      "value": "LEAVES"
+      "value": "WOOD"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -57,14 +57,14 @@
     },
     "offsetType": "NONE",
     "aiPathNodeType": "DEFAULT",
-    "flammability": 30,
+    "flammability": 5,
     "fireSpreadSpeed": 0,
     "isLadder": false,
     "slipperiness": 0.6,
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "PLANT"
+      "value": "WOOD"
     },
     "luminance": 0.0,
     "unbreakable": false,

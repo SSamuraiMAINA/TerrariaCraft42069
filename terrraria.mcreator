@@ -459,6 +459,150 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dick_thunder"
+    },
+    {
+      "name": "ShadewoodFence",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_fence"
+    },
+    {
+      "name": "ShadewoodItemsTag",
+      "type": "tag",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_items_tag"
+    },
+    {
+      "name": "ShadewoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_fence_gate_recipe"
+    },
+    {
+      "name": "ShadewoodSlab",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_slab"
+    },
+    {
+      "name": "ShadewoodLeaves",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_leaves"
+    },
+    {
+      "name": "ShadewoodLog",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_log"
+    },
+    {
+      "name": "ShadewoodPlanks",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_planks"
+    },
+    {
+      "name": "ShadewoodFenceGate",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_fence_gate"
+    },
+    {
+      "name": "ShadewoodStickRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_stick_recipe"
+    },
+    {
+      "name": "ShadewoodStairs",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_stairs"
+    },
+    {
+      "name": "ShadewoodWood",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_wood"
+    },
+    {
+      "name": "ShadewoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_wood_recipe"
+    },
+    {
+      "name": "ShadewoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_planks_recipe"
+    },
+    {
+      "name": "ShadewoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_stairs_recipe"
+    },
+    {
+      "name": "ShadewoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_slab_recipe"
+    },
+    {
+      "name": "ShadewoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shadewood_fence_recipe"
     }
   ],
   "variable_elements": [],

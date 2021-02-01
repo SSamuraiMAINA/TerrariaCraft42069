@@ -2,7 +2,7 @@
   "_fv": 13,
   "_type": "block",
   "definition": {
-    "texture": "wood_leaves3",
+    "texture": "shadewood_leaves2",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -25,7 +25,7 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Wood Leaves",
+    "name": "Shadewood Leaves",
     "specialInfo": [],
     "hardness": 0.2,
     "resistance": 0.2,

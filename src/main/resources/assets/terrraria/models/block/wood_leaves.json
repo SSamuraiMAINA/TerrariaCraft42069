@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "terrraria:blocks/wood_leaves2",
-    "particle": "terrraria:blocks/wood_leaves2"
+    "all": "terrraria:blocks/wood_leaves3",
+    "particle": "terrraria:blocks/wood_leaves3"
   }
 }
