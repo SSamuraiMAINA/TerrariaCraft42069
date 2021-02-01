@@ -1,0 +1,12 @@
+{
+  "group": "terrraria",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "terrraria:copper_ore"
+  },
+  "result": {
+    "item": "terrraria:copper_ingot"
+  }
+}

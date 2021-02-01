@@ -1,8 +1,0 @@
-{
-  "parent": "block/stairs",
-  "textures": {
-    "bottom": "terrraria:blocks/shadewood_planks2",
-    "top": "terrraria:blocks/shadewood_planks2",
-    "side": "terrraria:blocks/shadewood_planks2"
-  }
-}

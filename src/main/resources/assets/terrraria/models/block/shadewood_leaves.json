@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "terrraria:blocks/shadewood_leaves2",
-    "particle": "terrraria:blocks/shadewood_leaves2"
-  }
-}

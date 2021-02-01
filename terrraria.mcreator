@@ -461,167 +461,125 @@
       "registry_name": "dick_thunder"
     },
     {
-      "name": "ShadewoodFence",
-      "type": "block",
-      "sortid": 57,
+      "name": "CopperIngot",
+      "type": "item",
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "shadewood_fence"
+      "registry_name": "copper_ingot"
     },
     {
-      "name": "ShadewoodItemsTag",
-      "type": "tag",
-      "sortid": 59,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "shadewood_items_tag"
-    },
-    {
-      "name": "ShadewoodFenceGateRecipe",
-      "type": "recipe",
-      "sortid": 65,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "shadewood_fence_gate_recipe"
-    },
-    {
-      "name": "ShadewoodSlab",
-      "type": "block",
-      "sortid": 56,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "shadewood_slab"
-    },
-    {
-      "name": "ShadewoodLeaves",
-      "type": "block",
-      "sortid": 54,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "shadewood_leaves"
-    },
-    {
-      "name": "ShadewoodLog",
+      "name": "CopperOre",
       "type": "block",
       "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "shadewood_log"
+      "registry_name": "copper_ore"
     },
     {
-      "name": "ShadewoodPlanks",
+      "name": "CopperBlock",
       "type": "block",
       "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "shadewood_planks"
+      "registry_name": "copper_block"
     },
     {
-      "name": "ShadewoodFenceGate",
-      "type": "block",
-      "sortid": 58,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "shadewood_fence_gate"
-    },
-    {
-      "name": "ShadewoodStickRecipe",
+      "name": "CopperOreBlockRecipe",
       "type": "recipe",
-      "sortid": 66,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "shadewood_stick_recipe"
+      "registry_name": "copper_ore_block_recipe"
     },
     {
-      "name": "ShadewoodStairs",
-      "type": "block",
+      "name": "CopperBlockOreRecipe",
+      "type": "recipe",
       "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "shadewood_stairs"
+      "registry_name": "copper_block_ore_recipe"
     },
     {
-      "name": "ShadewoodWood",
-      "type": "block",
-      "sortid": 51,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "shadewood_wood"
-    },
-    {
-      "name": "ShadewoodWoodRecipe",
+      "name": "CopperOreSmelting",
       "type": "recipe",
-      "sortid": 60,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "shadewood_wood_recipe"
+      "registry_name": "copper_ore_smelting"
     },
     {
-      "name": "ShadewoodPlanksRecipe",
-      "type": "recipe",
-      "sortid": 61,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "shadewood_planks_recipe"
-    },
-    {
-      "name": "ShadewoodStairsRecipe",
+      "name": "CopperToolsPickaxeRecipe",
       "type": "recipe",
       "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "shadewood_stairs_recipe"
+      "registry_name": "copper_tools_pickaxe_recipe"
     },
     {
-      "name": "ShadewoodSlabRecipe",
+      "name": "CopperToolsAxeRecipe",
       "type": "recipe",
       "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "shadewood_slab_recipe"
+      "registry_name": "copper_tools_axe_recipe"
     },
     {
-      "name": "ShadewoodFenceRecipe",
+      "name": "CopperToolsSwordRecipe",
       "type": "recipe",
       "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "shadewood_fence_recipe"
+      "registry_name": "copper_tools_sword_recipe"
+    },
+    {
+      "name": "CopperToolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_tools_shovel_recipe"
+    },
+    {
+      "name": "CopperToolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_tools_hoe_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.terrraria.wood_slab": "Wood Slab",
-      "block.terrraria.wood_fence_gate": "Wood Fence Gate",
       "block.terrraria.rich_mahagony_wood": "RichMahagony Wood",
+      "block.terrraria.wood_fence_gate": "Wood Fence Gate",
+      "block.terrraria.wood_slab": "Wood Slab",
+      "block.terrraria.copper_block": "Block of Copper",
       "block.terrraria.rich_mahagony_log": "RichMahagony Log",
-      "block.terrraria.pearlwood_leaves": "Pearlwood Leaves",
       "block.terrraria.wood_stairs": "Wood Stairs",
+      "block.terrraria.pearlwood_leaves": "Pearlwood Leaves",
       "advancements.dick_thunder.descr": "Reach level 69",
       "block.terrraria.wood_log": "Wood Log",
       "block.terrraria.rich_mahagony_fence_gate": "RichMahagony Fence Gate",
-      "block.terrraria.pearlwood_wood": "Pearlwood Wood",
       "item.terrraria.ticon": "Ticon",
+      "block.terrraria.pearlwood_wood": "Pearlwood Wood",
       "block.terrraria.rich_mahagony_slab": "RichMahagony Slab",
+      "block.terrraria.copper_ore": "Copper Ore",
       "block.terrraria.wood_planks": "Wood Planks",
+      "item.terrraria.copper_ingot": "Copper",
       "block.terrraria.pearlwood_slab": "Pearlwood Slab",
       "block.terrraria.pearlwood_log": "Pearlwood Log",
       "block.terrraria.rich_mahagony_leaves": "RichMahagony Leaves",

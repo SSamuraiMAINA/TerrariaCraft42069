@@ -1,0 +1,42 @@
+{
+  "group": "terrraria",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "terrraria:copper_ingot"
+    },
+    "1": {
+      "item": "terrraria:copper_ingot"
+    },
+    "2": {
+      "item": "terrraria:copper_ingot"
+    },
+    "3": {
+      "item": "terrraria:copper_ingot"
+    },
+    "4": {
+      "item": "terrraria:copper_ingot"
+    },
+    "5": {
+      "item": "terrraria:copper_ingot"
+    },
+    "6": {
+      "item": "terrraria:copper_ingot"
+    },
+    "7": {
+      "item": "terrraria:copper_ingot"
+    },
+    "8": {
+      "item": "terrraria:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "terrraria:copper_block",
+    "count": 1
+  }
+}

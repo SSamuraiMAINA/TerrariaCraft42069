@@ -1,0 +1,16 @@
+{
+  "group": "terrraria",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "terrraria:copper_tools_sword",
+    "count": 1
+  }
+}

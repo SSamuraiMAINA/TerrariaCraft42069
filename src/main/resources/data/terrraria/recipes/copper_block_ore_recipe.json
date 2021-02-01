@@ -1,0 +1,13 @@
+{
+  "group": "terrraria",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrraria:copper_block"
+    }
+  ],
+  "result": {
+    "item": "terrraria:copper_ingot",
+    "count": 9
+  }
+}
